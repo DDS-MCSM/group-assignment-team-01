@@ -10,4 +10,4 @@ En base a los problemas y necesidades anteriormente expuestos, para la realizaci
 ¿Se puede detectar un ataque a elementos de una red en base a la monitorización de ciertos atributos de su actividad?
 
 # Instrucciones de uso
-Para utilizar el documento report.Rmd antes se deben descomprir manualment los ficheros csv situados dentro de la carpeta dataset.
+Para generar un informe html apartir del Markdown Report.Rmd antes se deben descomprir manualment los ficheros csv situados dentro de la carpeta dataset.
