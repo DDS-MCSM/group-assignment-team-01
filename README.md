@@ -8,3 +8,6 @@ Durante estos últimos años, los Security Information and Event Management (SIE
 En base a los problemas y necesidades anteriormente expuestos, para la realización de esta práctica, se ha querido desarrollar un modelo que permita una rápida detección de los ataques, incluso de los desconocidos. Este modelo será entrenado mediante ML y deberá ser capaz de distinguir un ataque de una actividad normal en base a ciertos atributos de la actividad de una red.
 # Question
 ¿Se puede detectar un ataque a elementos de una red en base a la monitorización de ciertos atributos de su actividad?
+
+# Instrucciones de uso
+Para utilizar el documento report.Rmd antes se deben descomprir manualment los ficheros csv situados dentro de la carpeta dataset.
